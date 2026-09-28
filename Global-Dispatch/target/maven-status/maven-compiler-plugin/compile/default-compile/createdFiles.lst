@@ -1,0 +1,11 @@
+com\newcron\globaldispatch\model\DispatchResult.class
+com\newcron\globaldispatch\service\GlobalDispatchService.class
+com\newcron\globaldispatch\model\DispatchMessage.class
+com\newcron\globaldispatch\service\DispatchValidator.class
+com\newcron\globaldispatch\controller\GlobalDispatchController.class
+com\newcron\globaldispatch\model\DispatchRequest.class
+com\newcron\globaldispatch\messaging\SolaceConsumer.class
+com\newcron\globaldispatch\model\DispatchRequest$Stop.class
+com\newcron\globaldispatch\messaging\SolacePublisher.class
+com\newcron\globaldispatch\model\DispatchRequest$Vehicle.class
+com\newcron\globaldispatch\GlobalDispatchApplication.class
